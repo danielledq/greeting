@@ -10,4 +10,6 @@ func Hello() {
 
 // Hi prints the string "Hi!".
 func Hi() {
+
 	fmt.Println("Hi!")
+}
